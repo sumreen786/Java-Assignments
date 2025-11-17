@@ -8,7 +8,7 @@ public class AreaOfCircle {
 
     public static double circleArea(){
         double radius = 5;
-        double area = Math.PI * radius * radius;
+        double area = Math.PI * radius * radius; // formula
         return area;
     }
     public static void main(String[] args){
@@ -17,3 +17,4 @@ public class AreaOfCircle {
     }
 
 }
+
